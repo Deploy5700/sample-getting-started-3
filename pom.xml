@@ -19,7 +19,7 @@
     <version.liberty-maven-plugin>3.7.1</version.liberty-maven-plugin>
     <version.maven-failsafe-plugin>3.0.0</version.maven-failsafe-plugin>
     <version.maven-surefire-plugin>3.0.0</version.maven-surefire-plugin>
-    <!-- Liberty configuration -->
+    <!-- Liberty configuration-->
     <liberty.var.default.http.port>9080</liberty.var.default.http.port>
     <liberty.var.default.https.port>9443</liberty.var.default.https.port>
     <liberty.var.app.context.root>/</liberty.var.app.context.root>
